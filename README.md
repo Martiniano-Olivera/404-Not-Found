@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/Martiniano-Olivera/404-Not-Found}">
+    <a href="https://{github.com/Martiniano-Olivera/404-Not-Found}">
       Solution
     </a>
     <span> | </span>
@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Linkedin](https://{www.linkedin.com/in/martiniano-olivera/})
-- GitHub [@Martiniano-Olivera](https://{https://github.com/Martiniano-Olivera})
-- Twitter [@MartinianoOliv1](https://{twitter.com/MartinianoOliv1})
+- [Linkedin]https://www.linkedin.com/in/martiniano-olivera/
+- [@Martiniano-Olivera]https://www.github.com/Martiniano-Olivera/
+- [@MartinianoOliv1]https://www.twitter.com/MartinianoOliv1/
