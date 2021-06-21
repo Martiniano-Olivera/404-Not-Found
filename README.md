@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Linkedin]https://www.linkedin.com/in/martiniano-olivera/
-- [@Martiniano-Olivera]https://www.github.com/Martiniano-Olivera/
-- [@MartinianoOliv1]https://www.twitter.com/MartinianoOliv1/
+- [Linkedin](https://linkedin.com/in/martiniano-olivera/)
+- [@Martiniano-Olivera](https://github.com/Martiniano-Olivera)
+- [@MartinianoOliv1](https://twitter.com/MartinianoOliv1)
